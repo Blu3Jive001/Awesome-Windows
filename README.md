@@ -13,7 +13,7 @@ To make this work, you'll need the following tools:
 + [TaskbarX](https://chrisandriessen.nl/taskbarx)
 + [PureRef](https://www.pureref.com/)
 + [Lovelace by niivu](https://www.deviantart.com/niivu/art/lovelace-Windows-10-Suite-820036284)
-+ [My hosted newtab page](blu3jive001.github.io/)
++ [My hosted newtab page](https://blu3jive001.github.io/)
 + [New Tab Override](https://addons.mozilla.org/en-GB/firefox/addon/new-tab-override/)
 + *And a brain*
 
