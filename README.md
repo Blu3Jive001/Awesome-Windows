@@ -19,4 +19,5 @@ To make this work, you'll need the following tools:
 
 I'd like to say thanks to the entire winthemers community for helping so much with this creation. To niivu for making the wonderful theme. And to Unixporn for telling me it didn't look good enough, so I didn't give up halfway through.
 
-Enjoy, thanks.
+Enjoy, 
+Thanks
