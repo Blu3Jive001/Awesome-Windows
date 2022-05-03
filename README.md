@@ -2,7 +2,7 @@
 
 This is a Windows port of JavaCafe01's AwesomeWM creation, which you can find [here](https://github.com/JavaCafe01/dotfiles)
 
-I tried to keep to the original as much as possible, copying the css and newtab page. But many things were incompatible with Windows, so I had to recode them using Rainmeter. Even the firefox css had to be tweaked strenously to accept a Windows configuration.
+This was my first Rainmeter skin I ever coded, please excuse the sloppy coding and numerous skin files. If this does get enough traction I will fully recode the suite.
 
 ![img](https://raw.githubusercontent.com/Blu3Jive001/Awesome-Windows/master/Images/Result.png)
 
