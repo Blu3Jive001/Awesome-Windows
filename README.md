@@ -2,7 +2,7 @@
 
 This is a Windows port of JavaCafe01's AwesomeWM creation, which you can find [here](https://github.com/JavaCafe01/dotfiles)
 
-This was my first Rainmeter skin I ever coded, please excuse the sloppy coding and numerous skin files. If this does get enough traction I will fully recode the suite.
+This was my first Rainmeter skin I ever coded. It is deprecated, faulty, poorly written and probably no longer works. This isn't getting updated, sorry.
 
 ![img](https://raw.githubusercontent.com/Blu3Jive001/Awesome-Windows/master/Images/Result.png)
 
