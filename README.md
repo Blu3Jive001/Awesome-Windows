@@ -15,7 +15,7 @@ To make this work, you'll need the following tools:
 + [Lovelace by niivu](https://www.deviantart.com/niivu/art/lovelace-Windows-10-Suite-820036284)
 + [My hosted newtab page](https://blu3jive001.github.io/)
 + [New Tab Override](https://addons.mozilla.org/en-GB/firefox/addon/new-tab-override/)
-+ *And a brain*
++ *And a brain ('cos you're gonna need to recode everything)*
 
 I'd like to say thanks to the entire winthemers community for helping so much with this creation. To niivu for making the wonderful theme. And to Unixporn for telling me it didn't look good enough, so I didn't give up halfway through.
 
